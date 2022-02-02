@@ -16,7 +16,7 @@ Psychographic - Segments based on geography, lifestyle, age and religious belief
  
  Behavior - Segments based on consumer personality traits, attitudes,interests, and lifestyles.
   
-##Overview of the problem
+## Overview of the problem
 
 You have been provided with a single file which contains data related to the e- commerce transactions. This data contains the date-time of sale, customer shipping location, and price of single unit from 2016 to 2017.
 
